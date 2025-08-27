@@ -3,7 +3,7 @@
 ## Estrutura do Projeto
 
 
-Este projeto demonstra um fluxo de trabalho completo para treinar, otimizar e servir um modelo de classificação de rede neural usando PyTorch. A otimização de hiperparâmetros é realizada com a biblioteca Optuna.
+Este projeto foi inicialmente desenvolvido para avaliar a possibilidade de classificação de alvos do sistema endocanabinoide, aqui demonstro como carregar o modelo que foi treinado e otimizado para classificação usando PyTorch. A otimização de hiperparâmetros foi realizada com a biblioteca Optuna.
 
 ## Estrutura do Repositório
 
@@ -25,4 +25,5 @@ Primeiro, clone o repositório e instale as dependências necessárias:
 ```bash
 git clone https://github.com/viniciusbon/deep_learning_classification_endocanabinoides.git
 cd <deep_learning_classification_endocanabino>
+
 pip install -r requirements.txt
