@@ -30,10 +30,14 @@ O modelo utiliza as 6 features a seguir, baseadas em dados de expressão gênica
 ## 📁 Estrutura do Repositório
 
 ├── 📄 .gitignore
+
 ├── 📜 melhor_modelo.pth       # Save do modelo treinado (pesos, scaler, encoder)
+
 ├── 📜 main.ipynb      # Notebook para carregar o modelo e fazer predições
+
 ├── 📜 main.py          # Código em Python
-└── 📜 requirements.txt                          # Dependências do projeto
+
+└── 📜 requirements.txt     # Dependências do projeto
 
 
 ## 🚀 Como Usar
@@ -45,3 +49,4 @@ Primeiro, clone o repositório e instale as dependências necessárias a partir 
 git clone [https://github.com/viniciusbon/deep_learning_classification_endocanabinoides.git](https://github.com/viniciusbon/deep_learning_classification_endocanabinoides.git)
 cd deep_learning_classification_endocanabinoides
 pip install -r requirements.txt
+
