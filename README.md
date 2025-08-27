@@ -39,6 +39,12 @@ O modelo utiliza as 6 features a seguir, baseadas em dados de expressão gênica
 
 └── 📜 requirements.txt     # Dependências do projeto
 
+O sistema endocanabinoide é uma variável importante para saúde cardiometabólica
+
+Gere seus proprios dados de expressão gênica de alvos do sistema endocanabinoide:
+Usando dados como idade, peso, altura, IMC e etc é possível predizer os valores dos alvos do sistema endocanabinoide, que pode ser usado como imput para esse rede.
+Possibilitando avaliar se os níveis estão altos ou baixo.
+
 
 ## 🚀 Como Usar
 ### 1. Configuração do Ambiente
@@ -53,4 +59,5 @@ pip install -r requirements.txt
 ### 2. Faça o load do modelo com os pesos
 
 ### 3. Faça novos predicts 
+
 
