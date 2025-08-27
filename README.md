@@ -50,3 +50,7 @@ git clone [https://github.com/viniciusbon/deep_learning_classification_endocanab
 cd deep_learning_classification_endocanabinoides
 pip install -r requirements.txt
 
+### 2. Faça o load do modelo com os pesos
+
+### 3. Faça novos predicts 
+
